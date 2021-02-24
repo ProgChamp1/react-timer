@@ -1,0 +1,13 @@
+.button {
+  margin-top: 10px;
+  border: 2px solid var(--spec-color);
+  padding: 4px;
+  width: 100px;
+  border-radius: 5px;
+  transition: 0.3s linear;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 2rem;
+}

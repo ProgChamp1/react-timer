@@ -1,0 +1,12 @@
+.timer-box {
+  font-size: 4rem;
+  font-weight: bold;
+  color: var(--spec-color);
+  font-family: orbitron;
+}
+
+.time-up-text {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
